@@ -1,7 +1,4 @@
-package com.driver.controller;
-
-import com.driver.model.Student;
-import com.driver.model.Teacher;
+package com.driver;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,9 +1,7 @@
-package com.driver.controller;
+package com.driver;
 
 import java.util.List;
 
-import com.driver.model.Student;
-import com.driver.model.Teacher;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
